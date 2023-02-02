@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -15,7 +15,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['94786802371'] //ur owner number
-global.ownername = "Nimesh Official" //ur owner name
+global.ownername = "𝙿𝙾𝙳𝚈" //ur owner name
 global.ytname = "YT: HELA CLOUD" //ur yt chanel name
 global.socialm = "GitHub: nimaofficial" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
